@@ -1,0 +1,7 @@
+eason-hatch-run/
+.agents/
+build_eason_pet.js
+build_eason_pet_v2.js
+repair_eason_no_select_walk.js
+run_eason_pet.bat
+run_eason_pet.ps1
